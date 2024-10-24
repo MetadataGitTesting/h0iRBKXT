@@ -1,0 +1,49 @@
+name: armand.toy
+description: Reduced
+version: 0.0.1
+author: oudltmyq.jm3cgkrl@mgkikqse.com
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: armandtoy
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2024-10-24 20:28:44'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2024-10-24 20:28:44'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2024-10-24T20:28:44.244995Z'
+  name: plibMaven
+  version: 8.5.0-SNAPSHOT
+  id: '1711418056'
+  createdAt: '2024-10-24T20:28:44.244995Z'
+  type: plibMaven
+projectDependencies: {}
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
